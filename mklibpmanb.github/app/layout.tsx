@@ -16,9 +16,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Dr. Diego Buendía — Ortopedia, Traumatología y Cirugía de Columna",
+  title: "Dr. Diego Buendía | Ortopedia y Cirugía de Columna, CDMX",
   description:
-    "Especialista en Ortopedia, Traumatología y Cirugía de Columna en Coyoacán, Ciudad de México. Demo visual.",
+    "Ortopedista y cirujano de columna en la Ciudad de México. Más de 20 años tratando hernia de disco, artrosis, fracturas y lesiones deportivas. Agenda tu consulta.",
 };
 
 export default function RootLayout({
